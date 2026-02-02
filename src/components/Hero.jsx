@@ -6,7 +6,7 @@ function Hero() {
     <section className="hero">
       <div className="container hero-content">
         <div className="hero-image">
-          <img src="/IMG_1626.jpeg" alt="Bilgehan Karakuş" className="profile-image" />
+          <img src="/react-kisisel-web/IMG_1626.jpeg" alt="Bilgehan Karakuş" className="profile-image" />
         </div>
         <div className="hero-text">
           <h1 className="hero-title">Bilgehan Karakuş</h1>
