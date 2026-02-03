@@ -29,9 +29,6 @@ function Footer() {
           <a href="https://github.com/bilgehankarakus" target="_blank" rel="noopener noreferrer" className="footer-link" title="GitHub">
             🔗
           </a>
-          <a href="https://linkedin.com/in/bilgehankarakus" target="_blank" rel="noopener noreferrer" className="footer-link" title="LinkedIn">
-            💼
-          </a>
         </div>
       </div>
     </footer>
